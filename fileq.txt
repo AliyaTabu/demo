@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 second line
 =======
-first line
+second
 >>>>>>> branch1
 bye
